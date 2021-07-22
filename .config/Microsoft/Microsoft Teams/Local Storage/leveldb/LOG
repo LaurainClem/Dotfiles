@@ -1,0 +1,5 @@
+2021/07/22-17:00:51.977 861 Reusing MANIFEST /home/clem/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
+2021/07/22-17:00:51.979 861 Recovering log #49
+2021/07/22-17:00:51.980 861 Level-0 table #53: started
+2021/07/22-17:00:51.985 861 Level-0 table #53: 53321 bytes OK
+2021/07/22-17:00:51.990 861 Delete type=0 #49
